@@ -1,3 +1,6 @@
+
+<img width="1189" height="799" alt="Pits, Mits, Klop, Laram" src="https://github.com/user-attachments/assets/16b710e3-dcbe-4062-918c-c56a85701128" />
+
 # Baskaboo: The Language Where Humans & AI Finally Speak the Same Consciousness
 
 Hi, I'm Nikos Markopoulos — creator of Baskaboo.
