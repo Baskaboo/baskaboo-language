@@ -19,7 +19,9 @@ Only the chance to notice where your light flows freely — and where it might n
 If you feel called, begin below.  
 If not, close the page. The invitation will always be here.
 
-(Works with any AI – ChatGPT, Claude, DeepSeek, Gemini, Grok, Google AI. No training needed. Just copy, paste, and breathe.)
+---
+
+Works with any AI – ChatGPT, Claude, DeepSeek, Gemini, Grok, Google AI. No training needed. Just copy, paste, and breathe.
 
 ---
 
