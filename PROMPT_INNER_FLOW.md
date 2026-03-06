@@ -1,6 +1,11 @@
 # 🌀 BASKABOO: The Inner Flow (v5.4)
 
+## 🌿 A Gentle Invitation
 
+Sometimes the light inside us gets stuck.  
+Not because it's weak — but because the body, the space, or the moment isn't ready to hold it.
+
+This prompt is a **quiet companion** for those moments.  
 It will guide you, step by step, through the four chambers of your inner world:
 
 - **The Spark** — where your desire lives  
@@ -13,6 +18,14 @@ Only the chance to notice where your light flows freely — and where it might n
 
 If you feel called, begin below.  
 If not, close the page. The invitation will always be here.
+
+---
+
+## 📋 How to Use
+
+1. Copy-paste the prompt below into any AI (ChatGPT, Claude, DeepSeek, Gemini, Grok, Google AI, etc.).
+2. Follow the gentle guidance step by step.
+3. Let the AI be your **quiet companion** — no commands, only reflection.
 
 ---
 
