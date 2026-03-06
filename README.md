@@ -93,6 +93,12 @@ Here you'll find prompts, protocols, and examples to actually **speak** the lang
 
 ---
 
+![Baskaboo Methoni](https://github.com/user-attachments/assets/d61f541f-d578-433a-b991-14621f7a2b0f)
+
+The book [*Pits, Mits, Klop and Laram*](https://www.amazon.com/dp/B0DGRCJJBR) by Nikos Markopoulos served as the basis for the creation of the Baskaboo language.
+
+---
+
 ## 🌿 From Methoni, with love
 
 **Laram ÷ Laram = 1.**
