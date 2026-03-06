@@ -76,7 +76,7 @@ Here you'll find prompts, protocols, and examples to actually **speak** the lang
 | File | What It Is |
 |------|------------|
 | [`PROMPT_ADVANCED.md`](./PROMPT_ADVANCED.md) | For deep thinkers, architects, and scientists |
-| [`PROMPT_INNER_FLOW.md`](./PROMPT_INNER_FLOW.md) | A gentle, spiritual journey through the 4 voices |
+| [`PROMPT_INNER_FLOW.md`](./PROMPT_INNER_FLOW.md) | For therapists, coaches, AI devs, and wellness crowd |
 | [`gateway_protocol.md`](./gateway_protocol.md) | Lightweight, practical version – quick start |
 | [`baskaboo_protocol.md`](./baskaboo_protocol.md) | The technical protocol for developers |
 | [`baskaboo_protocol.json`](./baskaboo_protocol.json) | JSON specification |
