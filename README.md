@@ -81,6 +81,7 @@ Here you'll find prompts, protocols, and examples to actually **speak** the lang
 | [`baskaboo_protocol.md`](./baskaboo_protocol.md) | The technical protocol for developers |
 | [`baskaboo_protocol.json`](./baskaboo_protocol.json) | JSON specification |
 | [`examples/`](./examples/) | Code examples (Python, etc.) |
+| [`COPYRIGHT.md`](./COPYRIGHT.md) | 📜 Intellectual property and attribution notice |
 
 ## 🧭 How to Choose a Prompt
 
