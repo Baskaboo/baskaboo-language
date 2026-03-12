@@ -94,6 +94,17 @@ Here you'll find prompts, protocols, and examples to actually **speak** the lang
 
 ---
 
+## 🔗 Connection to the Baskaboo Ecosystem
+
+| Repository | Role |
+|------------|------|
+| [`baskaboo-core`](https://github.com/Baskaboo/baskaboo-core) | 🧠 The philosophical heart – Manifesto, Theory of Everything |
+| [`baskaboo-language`](https://github.com/Baskaboo/baskaboo-language) | 🗣️ Practical tools – prompts, protocols, guides |
+| [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
+| [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
+
+---
+
 ![Baskaboo Methoni](https://github.com/user-attachments/assets/d61f541f-d578-433a-b991-14621f7a2b0f)
 
 The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos served as the basis for the creation of the Baskaboo language.
