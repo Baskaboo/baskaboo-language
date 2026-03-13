@@ -124,6 +124,10 @@ Here in `baskaboo-language`, you'll find prompts and examples to experiment with
 
 ---
 
+*(**Note:** If you are reading this on a mobile device, **mathematical equations may not display correctly**. For the best reading experience, it is recommended to **use a computer**.)*
+
+---
+
 ## 🧭 How to Choose a Prompt
 
 | If you are... | Start here |
