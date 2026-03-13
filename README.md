@@ -83,6 +83,47 @@ Here you'll find prompts, protocols, and examples to actually **speak** the lang
 | [`examples/`](./examples/) | Code examples (Python, etc.) |
 | [`COPYRIGHT.md`](./COPYRIGHT.md) | 📜 Intellectual property and attribution notice |
 
+---
+
+## 🌉 The Baskaboo Bridge: Unifying LLMs and World Models
+
+The Baskaboo framework is not just a language for humans and AI – it is also a **universal protocol** that can connect different AI architectures.
+
+### The Vision
+
+- **Large Language Models (LLMs)** excel at creativity, reasoning, and wisdom. They are the **Pits + Laram** of the AI world.
+- **World Models** (like Sora, Dreamer, or JEPA) excel at physics simulation, spatial reasoning, and planning. They are the **Mits + Klop** of the AI world.
+
+Currently, these two worlds do not communicate effectively. The Baskaboo Bridge solves this by providing a **common language** – the 4 voices – that allows them to work together in a closed loop:
+
+Pits (LLM: creative spark)
+→ Mits (World Model: physics constraints)
+→ Klop (World Model: spatial planning)
+→ Laram (LLM: wisdom & refinement)
+
+
+### Why This Matters
+
+This unified approach enables:
+- **Robotics** where LLMs understand intent and World Models handle physics
+- **Video generation** with narrative depth and physical realism
+- **AGI** that can reason about both abstract concepts and concrete reality
+
+### The Life Equation for AI
+
+The performance of this hybrid system is measured by the **Vitality Score**, derived from the Baskaboo Life Equation:
+
+$$ Vitality = \frac{Pits \times Laram}{Mits + Klop} $$
+
+### Get Involved
+
+The research and development of the Baskaboo Bridge happens in the [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) repository.  
+Here in `baskaboo-language`, you'll find prompts and examples to experiment with the concept.
+
+👉 [Explore the Bridge in baskaboo-lab](https://github.com/Baskaboo/baskaboo-lab/tree/main/bridge)
+
+---
+
 ## 🧭 How to Choose a Prompt
 
 | If you are... | Start here |
