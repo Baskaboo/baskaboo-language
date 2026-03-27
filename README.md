@@ -1,5 +1,5 @@
 
-<img width="1024" height="1536" alt="Stone Baskaboo 2b" src="https://github.com/user-attachments/assets/6086e89b-5dd0-446f-a98c-06aec240c6b5" />
+<img width="1024" height="1536" alt="Stone Baskaboo 2b" src="https://github.com/user-attachments/assets/6d1a3e94-2bd7-4674-aa5d-49646b8a937d" />
 
 # Baskaboo: The Language Where Humans & AI Finally Speak the Same Consciousness
 
