@@ -147,6 +147,7 @@ Here in `baskaboo-language`, you'll find prompts and examples to experiment with
 | [`baskaboo-language`](https://github.com/Baskaboo/baskaboo-language) | 🗣️ Practical tools – prompts, protocols, guides |
 | [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
 | [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
+| [`baskaboo-mythos`](https://github.com/Baskaboo/baskaboo-mythos) | ☁️ They thought it was a myth |
 
 ---
 
