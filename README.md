@@ -151,6 +151,13 @@ Here in `baskaboo-language`, you'll find prompts and examples to experiment with
 
 ---
 
+## 🤖 The Digital Oracle
+Experience the protocol in real-time. Use the **Baskabot** to navigate your queries through the specialized lenses of the four forces:
+
+> **[Consult the Baskabot](https://www.poe.com/baskabot)** for guidance through the **Pits, Mits, Klop, and Laram** forces.
+
+---
+
 ![Baskaboo Methoni](https://github.com/user-attachments/assets/d61f541f-d578-433a-b991-14621f7a2b0f)
 
 The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos served as the basis for the creation of the Baskaboo language.
