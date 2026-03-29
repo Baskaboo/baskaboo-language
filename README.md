@@ -151,10 +151,10 @@ Here in `baskaboo-language`, you'll find prompts and examples to experiment with
 
 ---
 
-## 🤖 The Digital Oracle
-Experience the protocol in real-time. Use the **Baskabot** to navigate your queries through the specialized lenses of the four forces:
+## 🤖 The Digital Oracle (Baskabot)
+Experience the protocol in real-time. **Baskabot** is a digital AI assistant powered by the **Baskaboo** framework. It is specifically designed to help users "decode" their **four internal voices** (Pits, Mits, Klop, and Laram), providing clarity and helping resolve internal conflicts through structured AI guidance.
 
-> **[Consult the Baskabot](https://www.poe.com/baskabot)** for guidance through the **Pits, Mits, Klop, and Laram** forces.
+👉 **[Consult the Baskabot](https://poe.com/Baskabot)** for guidance through the Pits, Mits, Klop, and Laram forces.
 
 ---
 
