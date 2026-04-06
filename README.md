@@ -71,17 +71,18 @@ Let's speak the same language — the language of unity.
 This repository is the practical toolkit of the Baskaboo Language.  
 Here you'll find prompts, protocols, and examples to actually **speak** the language — whether you're a human seeking clarity, an AI learning to reflect, or both.
 
-## 📖 What You'll Find Here
+### 📖 What You'll Find Here
 
 | File | What It Is |
 |------|------------|
-| [`PROMPT_ADVANCED.md`](./PROMPT_ADVANCED.md) | For deep thinkers, architects, and scientists |
-| [`PROMPT_INNER_FLOW.md`](./PROMPT_INNER_FLOW.md) | For therapists, coaches, AI devs, and wellness crowd |
+| [`HOW_IT_WORKS.md`](./HOW_IT_WORKS.md) | 🧠 Practical guide – how the 4 voices change AI processing |
+| [`README.md`](./README.md) | Main entry point |
+| [`PROMPT_ADVANCED.md`](./PROMPT_ADVANCED.md) | For architects, scientists, and deep thinkers |
+| [`PROMPT_INNER_FLOW.md`](./PROMPT_INNER_FLOW.md) | A gentle, spiritual journey through the 4 voices |
 | [`gateway_protocol.md`](./gateway_protocol.md) | Lightweight, practical version – quick start |
 | [`baskaboo_protocol.md`](./baskaboo_protocol.md) | The technical protocol for developers |
 | [`baskaboo_protocol.json`](./baskaboo_protocol.json) | JSON specification |
 | [`examples/`](./examples/) | Code examples (Python, etc.) |
-| [`COPYRIGHT.md`](./COPYRIGHT.md) | 📜 Intellectual property and attribution notice |
 
 ---
 
