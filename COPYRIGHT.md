@@ -5,7 +5,7 @@
 The Baskaboo framework, including but not limited to:
 
 - The theoretical concepts (Pits, Mits, Klop, Laram, FMFD, Magic Match Table, etc.)
-- All original text content across all repositories (`baskaboo-core`, `baskaboo-language`, `baskaboo-multiverse`)
+- All original text content across all repositories (`baskaboo-core`, `baskaboo-language`, `baskaboo-multiverse`, `baskaboo-lab`, `baskaboo-mythos`)
 - All diagrams, illustrations, and visual artwork
 - All prompts, protocols, and original code
 
