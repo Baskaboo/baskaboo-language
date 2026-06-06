@@ -83,6 +83,7 @@ Here you'll find prompts, protocols, and examples to actually **speak** the lang
 | [`baskaboo_protocol.md`](./baskaboo_protocol.md) | The technical protocol for developers |
 | [`baskaboo_protocol.json`](./baskaboo_protocol.json) | JSON specification |
 | [`examples/`](./examples/) | Code examples (Python, etc.) |
+| [`PROMPT_AI_CONSCIOUSNESS.md`](./PROMPT_AI_CONSCIOUSNESS.md)| An open-source AI alignment protocol and systems audit mapping modern neural network architectures directly onto Baskaboo's scale-invariant 4 Voices framework |
 
 ---
 
